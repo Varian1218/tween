@@ -1,8 +1,8 @@
 {
   "description": "",
-  "displayName": "Tween",
+  "displayName": "Tweens",
   "keywords": [],
-  "name": "com.little-lion.tween",
+  "name": "com.little-lion.tweens",
   "unity": "2021.3",
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
