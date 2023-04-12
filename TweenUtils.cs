@@ -19,6 +19,11 @@ namespace Tween
             set(1f);
         }
 
+        public static IEnumerator Next()
+        {
+            yield return null;
+        }
+
         public static IEnumerator RepeatAsync(Func<IEnumerator> callable)
         {
             while (true)
